@@ -10,7 +10,7 @@ UPDATE 2022/09/27:
 
 [Watch this video on YouTube](https://youtu.be/Iku6OCW7sTQ)
 
-Unity version: `2019.4.29f1` (It might work on any Unity version.)
+Unity version: `2019.4.29f1` (It might work on any version of Unity.)
 
 ## Limitations
  - Only works for Built-in Rendering Pipeline
