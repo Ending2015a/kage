@@ -10,6 +10,8 @@ UPDATE 2022/09/27:
 
 [Watch this video on YouTube](https://youtu.be/Iku6OCW7sTQ)
 
+Unity version: `2019.4.29f1` (It might work on any Unity version.)
+
 ## Limitations
  - Only works for Built-in Rendering Pipeline
  - Does not work for `Skybox`. change your camera background to `Solid Color`.
