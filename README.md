@@ -1,4 +1,4 @@
-# UnityShadowAR
+# Kage
 Casting shadows on an invisible plane.
 
 UPDATE 2022/09/27:
